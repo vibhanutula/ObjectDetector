@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    font-family: 'Just Me Again Down Here', cursive
+}
+
+h1{
+    font-size: 80px;
+    color: rgb(226, 87, 134);
+}
+
+a{
+    background-color: rgb(255, 96, 175);
+    width: 50%;
+    font-size: 50px;
+    color: pink;
+    border-radius: 50px;
+    border: 3px dashed rgb(255, 193, 214);
+}

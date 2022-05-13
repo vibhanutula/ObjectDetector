@@ -1,0 +1,22 @@
+body{
+    background-position: center;
+    background-size: cover;
+    font-family: 'Just Me Again Down Here', cursive;
+    color: rgb(251, 0, 0);
+}
+
+button{
+    background-color: rgb(255, 199, 181);
+    color: red;
+    border: 3px red dashed;
+    border-radius: 10px;
+    font-weight: bold;
+    height: 30px;
+    font-size: 13px;
+    font-family: 'Just Me Again Down Here', cursive;
+}
+
+canvas{
+    border: 5px rgb(82, 0, 0) dashed;
+    border-radius: 50px;
+}
